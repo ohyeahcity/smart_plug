@@ -237,9 +237,9 @@ Multi_Lang_Wording[2]="JP - 日本語";
 
 //多語系網頁Title招呼語 (顯示在瀏覽TAB上)
 Multi_Lang_Title= new Array();
-Multi_Lang_Title[0]="歡迎來到EQL - Smart Led Light網站";
-Multi_Lang_Title[1]="Welcome to EQL - Smart Led Light";
-Multi_Lang_Title[2]="EQLへようこそ - Smart Led Light";
+Multi_Lang_Title[0]="歡迎來到EQL - Smart Plug網站";
+Multi_Lang_Title[1]="Welcome to EQL - Smart Plug";
+Multi_Lang_Title[2]="EQLへようこそ - Smart Plug";
 
 
 //=====文字儲存區 END======
