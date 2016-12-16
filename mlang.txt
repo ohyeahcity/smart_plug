@@ -21,7 +21,7 @@
       "lang_power_ps01":"找出耗電元兇！若產品負載超過1400w或15安培會自動啟動斷電保護",
 
       "lang_device": "電力福爾摩斯",
-      "lang_device_content":"鉅細靡遺記錄日、週、月電力用量搞懂電費從哪來",
+      "lang_device_content":"鉅細靡遺記錄日、週、月電力用量,搞懂電費從哪來",
       "lang_buy_title":"立刻購買",
       "lang_shop":"線上商店",
       "lang_bl_title": "Android",
