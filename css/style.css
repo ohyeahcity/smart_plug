@@ -251,8 +251,8 @@ margin: 0 auto;
   min-height: 200px;
 }
 
-.FEATURE p{
-  font-size: 15px;
+.FEATURE_icon p{
+  font-size: 17px;
   /*font-weight:bold;*/
   text-align: center;
   color: white;
