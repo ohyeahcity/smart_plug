@@ -274,7 +274,10 @@ font-size: 16px;
 @media(max-width:768px){
   .FEATURE h2{
     line-height: 50px;
+  }
 
+  .FEATURE_icon{
+    min-height: 200px;
   }
 }
 
