@@ -229,7 +229,7 @@ margin: 0 auto;
   display: block;
   margin:0 auto;
   /*background-color: grey;*/
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   /*margin-top: 40px;*/
 }
 .FEATURE .secondline img{
@@ -241,7 +241,6 @@ margin: 0 auto;
 
 .FEATURE h2{
   color: white;
-
   font-family: 微軟正黑體;
   line-height:45px;
   letter-spacing: 1px;
